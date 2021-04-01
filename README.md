@@ -2,28 +2,33 @@
 
 ## Jour 1 
 
-### Journée : 
+### Journée :
+instatler logicial 
+Suvis tutorial https://www.w3schools.com
+followed css and HTML 
 
-Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. Vous obtenez alors un texte aléatoire que vous pourrez ensuite utiliser librement dans vos maquettes.
+
 
 ### Soir : 
+started to creat sketch with Html,followe tutorial in youtube 
 
-Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. Vous obtenez alors un texte aléatoire que vous pourrez ensuite utiliser librement dans vos maquettes.
 
 -----------------
 
 ## Jour 2 :
 
 ### Journée :
-Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. Vous obtenez alors un texte aléatoire que vous pourrez ensuite utiliser librement dans vos maquettes.
+add photos & arrange Cv
 
 ### Soir : 
 
-Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. Vous obtenez alors un texte aléatoire que vous pourrez ensuite utiliser librement dans vos maquettes.
+add photos & arrange Cv
 
 -----------------
 
 ## Jour 3 :
 
 ### Journée 
-Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. Vous obtenez alors un texte aléatoire que vous pourrez ensuite utiliser librement dans vos maquettes.
+final touched for Cv with difirent types of backgroung images.
+### Soir:
+final touched Cv
